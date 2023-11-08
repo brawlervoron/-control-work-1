@@ -1,0 +1,43 @@
+.body{
+    background-color: white;
+}
+ul.nav{
+       margin-left: 0px;
+       padding-left: 0px;
+            }
+.nav li {
+      display: inline;
+            }
+
+            }
+ul.nav a:hover{
+   background-color: #333;
+   color: #fff;
+            }
+.link {
+height: 50px;
+width: 50px;
+}
+.text-margin{
+margin-left: 250px
+}
+.link-margin{
+margin-left: 150px
+}
+.picture{
+height: 100px;
+width: 100px;
+}
+table.mytable
+ { background-image: url(https://sopranoclub.ru/images/105-samyh-krasivyh-fonov-dlya-lyubyh-tselej/file57958.jpeg); }
+.img{
+height: 130px;
+width: 130px;
+}
+
+.marginauto {
+    margin:auto;
+    display: block;
+    height: 100px;
+    width: 100px;
+}
